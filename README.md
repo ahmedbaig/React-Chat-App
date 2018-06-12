@@ -1,4 +1,4 @@
-# MERN MONGODB ACCESSING WITH CORS
+# React Chat Application
 
 This is a boilerplate using the following technologies:
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
